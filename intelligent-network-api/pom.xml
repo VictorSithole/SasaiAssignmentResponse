@@ -8,6 +8,10 @@
         <version>1.0.0</version>
         <relativePath>../intelligent-network-parent/pom.xml</relativePath>
     </parent>
+
+    <properties>
+        <slf4jVersion>1.6.1</slf4jVersion>
+    </properties>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>intelligent-network-api</artifactId>
@@ -16,6 +20,11 @@
             <groupId>com.econetwireless</groupId>
             <artifactId>econet-utils</artifactId>
             <version>${project.parent.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>${slf4jVersion}</version>
         </dependency>
     </dependencies>
 
