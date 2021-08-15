@@ -37,6 +37,11 @@
             <artifactId>electronic-payments-dao</artifactId>
             <version>${project.parent.version}</version>
         </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
@@ -54,7 +59,7 @@
                         <vmArg>-Djavax.xml.accessExternalSchema=all</vmArg>
                     </vmArgs>
                     <extension>true</extension>
-                    <wsdlDirectory>${basedir}/src/main/resources/wsdls</wsdlDirectory>
+                    <wsdlDirectory>src/main/resources/wsdls</wsdlDirectory>
                     <sourceDestDir>${project.build.directory}/generated-sources/main/java</sourceDestDir>
                     <packageName>com.econetwireless.in.webservice</packageName>
                 </configuration>

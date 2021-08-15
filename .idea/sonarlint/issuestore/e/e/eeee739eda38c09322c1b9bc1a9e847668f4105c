@@ -1,0 +1,27 @@
+
+~
+java:S2629K"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(æ»ğçşÿÿÿÿ8†š­´/
+x
+java:S2629L"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Æ„›/8†š­´/
+~
+java:S2629M"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ã™Âùÿÿÿÿÿ8†š­´/
+~
+java:S2629N"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(£áòüÿÿÿÿ8†š­´/
+y
+java:S2629O"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(çÏÑú8‹š­´/
+y
+java:S2629P"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(û¾áÿ8‹š­´/
+c
+java:S5361F"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¾¯éÓıÿÿÿÿ
+c
+java:S3457K"AFormat specifiers should be used instead of string concatenation.(æ»ğçşÿÿÿÿ8¸š­´/
+]
+java:S3457L"AFormat specifiers should be used instead of string concatenation.(Æ„›/8½š­´/
+c
+java:S3457M"AFormat specifiers should be used instead of string concatenation.(Ã™Âùÿÿÿÿÿ8Àš­´/
+c
+java:S3457N"AFormat specifiers should be used instead of string concatenation.(£áòüÿÿÿÿ8Àš­´/
+^
+java:S3457O"AFormat specifiers should be used instead of string concatenation.(çÏÑú8Âš­´/
+^
+java:S3457P"AFormat specifiers should be used instead of string concatenation.(û¾áÿ8Çš­´/
