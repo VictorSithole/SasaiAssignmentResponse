@@ -4,6 +4,10 @@
         <Property name="log-path">data/logs/intelligent-network-api</Property>
     </Properties>
     <Appenders>
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout
+                    pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n" />
+        </Console>
         <Routing name="RoutingAppender">
             <Routes pattern="$${ctx:ROUTINGKEY}">
 
@@ -39,9 +43,14 @@
 
     </Appenders>
     <Loggers>
+
         <Logger name="com.econetwireless" level="info" additivity="false">
             <AppenderRef ref="RoutingAppender" level="info"/>
         </Logger>
+
+        <Root level="debug" additivity="false">
+            <AppenderRef ref="console" />
+        </Root>
 
     </Loggers>
 </Configuration>

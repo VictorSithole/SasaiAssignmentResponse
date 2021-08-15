@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e795e56-cabd-4d6e-b380-f648f82d5761" name="Default Changelist" comment="mvn clean verify successful for all modules">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41ae2a1d08e1770bc8fb2fb97f62df5abb994bb3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9d770e30-e5c1-46e0-8a12-8ea496782491" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -542,5 +538,10 @@
     <MESSAGE value="ChargingPlatformImplTest" />
     <MESSAGE value="mvn clean verify successful for all modules" />
     <option name="LAST_COMMIT_MESSAGE" value="mvn clean verify successful for all modules" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/developer_task_01$IntelligentNetworkPublisher.ic" NAME="IntelligentNetworkPublisher Coverage Results" MODIFIED="1628964145374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.econetwireless.in.soap.publisher.*</FILTER>
+    </SUITE>
   </component>
 </project>
