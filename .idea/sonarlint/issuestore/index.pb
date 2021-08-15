@@ -27,12 +27,6 @@ helectronic-payments-business/src/test/java/epay/business/services/impl/PartnerC
 delectronic-payments-business/src/test/java/epay/business/services/impl/ReportingServiceImplTest.java,c\e\ceb0e866ffa868e9791547662921c93181df6d7e
 ˜
 helectronic-payments-business/src/test/java/epay/business/integrations/impl/ChargingPlatformImplTest.java,0\1\0129d39536893baa50c155d7913a4fb2e4bc0277
-š
-jelectronic-payments-business/src/main/java/com/econetwireless/epay/business/config/EpayBusinessConfig.java,3\6\363aa99e364d27ef12b35e587950973f8e7e9b27
-’
-belectronic-payments-business/src/main/java/com/econetwireless/epay/business/config/RootConfig.java,1\5\15aa478c0ac4bfcc5e4bbc6d82875eaf6c19e0a1
-¢
-relectronic-payments-business/src/main/java/com/econetwireless/epay/business/integrations/api/ChargingPlatform.java,e\1\e15071c3581596e143fd5b90cfdb7e88ac20a681
 §
 welectronic-payments-business/src/main/java/com/econetwireless/epay/business/integrations/impl/ChargingPlatformImpl.java,0\f\0fbf5a70f753599a38705fbeb7564dfff3b17ae2
 œ
