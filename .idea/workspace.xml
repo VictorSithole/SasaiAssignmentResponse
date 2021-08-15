@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e795e56-cabd-4d6e-b380-f648f82d5761" name="Default Changelist" comment="mvn clean verify successful for all modules">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41ae2a1d08e1770bc8fb2fb97f62df5abb994bb3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="hotfix/interview-bugs" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hotfix/interview-bugs" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q0i59nCMiq5Yz7h0Tn7iQqLGd8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SubmittingToCassava/developer-task-01" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.60229886" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.econetwireless.epay.business.services.impl" />
+      <recent name="com.econetwireless.epay.business.utils" />
+      <recent name="com.econetwireless.epay.business.integrations.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/electronic-payments-business/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/electronic-payments-api" />
+      <recent name="$PROJECT_DIR$/electronic-payments-business" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/electronic-payments-business/src/test/java/com/econetwireless/epay" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EpayResourcesIT">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntelligentNetworkPublisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.econetwireless.in.soap.publisher.IntelligentNetworkPublisher" />
+      <module name="intelligent-network-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.econetwireless.in.soap.publisher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in electronic-payments-business (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="electronic-payments-business" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in electronic-payments-business" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="electronic-payments-business" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditsServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="electronic-payments-business" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.econetwireless.epay.business.services.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.econetwireless.epay.business.services.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.econetwireless.epay.business.services.impl.CreditsServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EpayResourcesIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="electronic-payments-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.econetwireless.epay.api.rest.resources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.econetwireless.epay.api.rest.resources" />
+      <option name="MAIN_CLASS_NAME" value="com.econetwireless.epay.api.rest.resources.EpayResourcesIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportingServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="electronic-payments-business" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.econetwireless.epay.business.services.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.econetwireless.epay.business.services.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.econetwireless.epay.business.services.impl.ReportingServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.econetwireless.epay.business in electronic-payments-business" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="electronic-payments-business" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.econetwireless.epay.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.econetwireless.epay.business" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EpayResourcesIT" />
+        <item itemvalue="Application.IntelligentNetworkPublisher" />
+        <item itemvalue="JUnit.CreditsServiceImplTest" />
+        <item itemvalue="JUnit.ReportingServiceImplTest" />
+        <item itemvalue="JUnit.All in electronic-payments-business (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e795e56-cabd-4d6e-b380-f648f82d5761" name="Default Changelist" comment="" />
+      <created>1616222721802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616222721802</updated>
+      <workItem from="1616222722999" duration="353000" />
+      <workItem from="1616223079631" duration="4256000" />
+      <workItem from="1616833075741" duration="9626000" />
+      <workItem from="1616853252319" duration="13427000" />
+      <workItem from="1616869271203" duration="638000" />
+      <workItem from="1616872695837" duration="19000" />
+      <workItem from="1616872862253" duration="316000" />
+      <workItem from="1616873778309" duration="1214000" />
+      <workItem from="1616875366330" duration="200000" />
+      <workItem from="1616875569284" duration="165000" />
+      <workItem from="1616910754137" duration="1340000" />
+      <workItem from="1616912114300" duration="29000" />
+      <workItem from="1616912169232" duration="343000" />
+      <workItem from="1616912517938" duration="141000" />
+      <workItem from="1616912662004" duration="22844000" />
+      <workItem from="1616942377453" duration="82000" />
+      <workItem from="1616942462322" duration="526000" />
+      <workItem from="1616942991050" duration="303000" />
+      <workItem from="1616943296695" duration="12000000" />
+      <workItem from="1616956042250" duration="439000" />
+    </task>
+    <task id="LOCAL-00001" summary="added static keyword in MobileNumberUtils">
+      <created>1616223518114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616223518114</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added static keyword in MobileNumberUtils">
+      <created>1616223941096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616223941096</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added static keyword in MobileNumberUtils">
+      <created>1616223948695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616223948695</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixed Logging Issues">
+      <created>1616225782762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616225782762</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed Logging Issues">
+      <created>1616842633164</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616842633164</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed Issue 1: MobileNumberUtils LOGGER not static&#10;&#10;Added static key word to ensure LOGGER can be called from static method">
+      <created>1616843518112</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616843518112</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed Issue 2: Misconfigured LOGGER not static&#10;&#10;Changed log-path to point to classpath directory instead of system path by removing the &quot;/&quot; at the beginning of the path as shown below&#10;&#10;```xml&#10;&lt;Property name=&quot;log-path&quot;&gt;data/logs/intelligent-network-api&lt;/Property&gt;&#10;```">
+      <created>1616844000881</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616844000881</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added .gitignore to ignore target/ &amp; data/logs/">
+      <created>1616844155541</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616844155541</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Issue 3: COMPILATION ERROR: Cannot find PreInsert&#10;&#10;PreInsert annotation reflects which method to call before a new record is added. Similarly PrePersist does the name. Thus ```java @PreInsert``` was replaced by ```java @PrePersist``` giving the same results">
+      <created>1616844889823</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616844889823</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Issue 4: Compilation failure: Compilation failure: wrong use of super &amp;&amp; this keywords&#10;&#10;this was used as a method of which its a java keyword which is reserved, super was used as a parameter of which its also reserved. After all not method named this was defined in the class, thus i removed the entire statement&#10;&#10;```java&#10;this(super);&#10;```">
+      <created>1616845700566</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616845700566</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Issue 5: JPA persist &amp; update methods not found&#10;&#10;Replaced methods persist &amp; update with method called save which is defined in the JPARepository and has the ability to save new record thus persist and update">
+      <created>1616845914720</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616845914720</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Issue 5: JPA persist &amp; update methods not found&#10;&#10;Issue also happened in CreditsServiceImpl.java&#10;&#10;Replaced methods persist &amp; update with method called save which is defined in the JPARepository and has the ability to save new record thus persist and update">
+      <created>1616845999584</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616845999584</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Issue 6: Error Executing JPARepository method findByPartnerCode&#10;&#10;Mismatching Entity name and reference in @NamedQuery&#10;NamedQuery entity references are case sensitive, thus entity defined as request should be referenced as &quot;request&quot; instead of &quot;Request&quot;&#10;&#10;```sql&#10;select r from request r where r.partnerCode = :partnerCode order by r.dateCreated desc &#10;```">
+      <created>1616848709368</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616848709368</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fixed log4j2 issue in electronic-payments-api by removing / thus pointing from system path to classpath">
+      <created>1616850297544</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616850297544</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fixed log4j2 issue in electronic-payments-api by removing / thus pointing from system path to classpath">
+      <created>1616854048862</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616854048863</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added constructor in EpayResource to initialise EpayRequestProcessor and ReportingProcessor">
+      <created>1616856450528</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616856450528</updated>
+    </task>
+    <task id="LOCAL-00017" summary="removed private access modifier on ResponseCode enum constructor">
+      <created>1616857363484</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616857363484</updated>
+    </task>
+    <task id="LOCAL-00018" summary="removed private access modifier on ResponseCode enum constructor also added this keyword">
+      <created>1616857449593</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1616857449593</updated>
+    </task>
+    <task id="LOCAL-00019" summary="removed private access modifier on ResponseCode enum constructor also added this keyword">
+      <created>1616862542064</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1616862542064</updated>
+    </task>
+    <task id="LOCAL-00020" summary="removed private access modifier on ResponseCode enum constructor also added this keyword">
+      <created>1616873175056</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1616873175056</updated>
+    </task>
+    <task id="LOCAL-00021" summary="resolving mvn clean verify">
+      <created>1616911123490</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1616911123490</updated>
+    </task>
+    <task id="LOCAL-00022" summary="resolving mvn clean verify">
+      <created>1616912912479</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1616912912479</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added constructor to EpayResource to instantiate interfaces">
+      <created>1616918182175</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1616918182175</updated>
+    </task>
+    <task id="LOCAL-00024" summary="removed @BindingType(value = SOAPBinding.SOAP12HTTP_BINDING) which was causing MediaType mismatch">
+      <created>1616925019281</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1616925019281</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added annotation as prefix @WebParam(name = &quot;partnerCode&quot;) on partnerCode parameter so as to map parameter value to partnerCode in enquireBalance method">
+      <created>1616936880719</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1616936880719</updated>
+    </task>
+    <task id="LOCAL-00026" summary="updated markdown with documentation">
+      <created>1616940550588</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1616940550588</updated>
+    </task>
+    <task id="LOCAL-00027" summary="initialised tests">
+      <created>1616944085957</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1616944085957</updated>
+    </task>
+    <task id="LOCAL-00028" summary="ReportingServiceImplTest">
+      <created>1616949408252</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1616949408252</updated>
+    </task>
+    <task id="LOCAL-00029" summary="PartnerCodeValidatorImplTest">
+      <created>1616949848711</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1616949848711</updated>
+    </task>
+    <task id="LOCAL-00030" summary="EnquiriesServiceImplTest">
+      <created>1616952150830</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1616952150830</updated>
+    </task>
+    <task id="LOCAL-00031" summary="EnquiriesServiceImplTest">
+      <created>1616953216286</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1616953216286</updated>
+    </task>
+    <task id="LOCAL-00032" summary="CreditsServiceImplTest">
+      <created>1616954086595</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1616954086595</updated>
+    </task>
+    <task id="LOCAL-00033" summary="ChargingPlatformImplTest">
+      <created>1616955264180</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1616955264180</updated>
+    </task>
+    <task id="LOCAL-00034" summary="ChargingPlatformImplTest">
+      <created>1616955936541</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1616955936541</updated>
+    </task>
+    <task id="LOCAL-00035" summary="ChargingPlatformImplTest">
+      <created>1629008533935</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1629008533935</updated>
+    </task>
+    <task id="LOCAL-00036" summary="mvn clean verify successful for all modules">
+      <created>1629056050234</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1629056050235</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed Logging Issues" />
+    <MESSAGE value="Fixed Issue 1: MobileNumberUtils LOGGER not static&#10;&#10;Added static key word to ensure LOGGER can be called from static method" />
+    <MESSAGE value="Fixed Issue 2: Misconfigured LOGGER not static&#10;&#10;Changed log-path to point to classpath directory instead of system path by removing the &quot;/&quot; at the beginning of the path as shown below&#10;&#10;```xml&#10;&lt;Property name=&quot;log-path&quot;&gt;data/logs/intelligent-network-api&lt;/Property&gt;&#10;```" />
+    <MESSAGE value="Added .gitignore to ignore target/ &amp; data/logs/" />
+    <MESSAGE value="Issue 3: COMPILATION ERROR: Cannot find PreInsert&#10;&#10;PreInsert annotation reflects which method to call before a new record is added. Similarly PrePersist does the name. Thus ```java @PreInsert``` was replaced by ```java @PrePersist``` giving the same results" />
+    <MESSAGE value="Issue 4: Compilation failure: Compilation failure: wrong use of super &amp;&amp; this keywords&#10;&#10;this was used as a method of which its a java keyword which is reserved, super was used as a parameter of which its also reserved. After all not method named this was defined in the class, thus i removed the entire statement&#10;&#10;```java&#10;this(super);&#10;```" />
+    <MESSAGE value="Issue 5: JPA persist &amp; update methods not found&#10;&#10;Replaced methods persist &amp; update with method called save which is defined in the JPARepository and has the ability to save new record thus persist and update" />
+    <MESSAGE value="Issue 5: JPA persist &amp; update methods not found&#10;&#10;Issue also happened in CreditsServiceImpl.java&#10;&#10;Replaced methods persist &amp; update with method called save which is defined in the JPARepository and has the ability to save new record thus persist and update" />
+    <MESSAGE value="Issue 6: Error Executing JPARepository method findByPartnerCode&#10;&#10;Mismatching Entity name and reference in @NamedQuery&#10;NamedQuery entity references are case sensitive, thus entity defined as request should be referenced as &quot;request&quot; instead of &quot;Request&quot;&#10;&#10;```sql&#10;select r from request r where r.partnerCode = :partnerCode order by r.dateCreated desc &#10;```" />
+    <MESSAGE value="Fixed log4j2 issue in electronic-payments-api by removing / thus pointing from system path to classpath" />
+    <MESSAGE value="Added constructor in EpayResource to initialise EpayRequestProcessor and ReportingProcessor" />
+    <MESSAGE value="removed private access modifier on ResponseCode enum constructor" />
+    <MESSAGE value="removed private access modifier on ResponseCode enum constructor also added this keyword" />
+    <MESSAGE value="resolving mvn clean verify" />
+    <MESSAGE value="Added constructor to EpayResource to instantiate interfaces" />
+    <MESSAGE value="removed @BindingType(value = SOAPBinding.SOAP12HTTP_BINDING) which was causing MediaType mismatch" />
+    <MESSAGE value="added annotation as prefix @WebParam(name = &quot;partnerCode&quot;) on partnerCode parameter so as to map parameter value to partnerCode in enquireBalance method" />
+    <MESSAGE value="updated markdown with documentation" />
+    <MESSAGE value="initialised tests" />
+    <MESSAGE value="ReportingServiceImplTest" />
+    <MESSAGE value="PartnerCodeValidatorImplTest" />
+    <MESSAGE value="EnquiriesServiceImplTest" />
+    <MESSAGE value="CreditsServiceImplTest" />
+    <MESSAGE value="ChargingPlatformImplTest" />
+    <MESSAGE value="mvn clean verify successful for all modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="mvn clean verify successful for all modules" />
+  </component>
+</project>
